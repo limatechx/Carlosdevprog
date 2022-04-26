@@ -10,14 +10,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlosdevprog&show_icons=true&theme=codeSTACKr&include_all_commits=false&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlosdevprog&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
-  
-## 
-  
 <div style="display: inline_block"><br>
   <img align="center" alt="Carlos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/103391344/165226550-ee5493bc-574a-46f3-bd99-2a8acea4be80.gif">
+  <img align="right" alt="Carlos-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/103391344/165226550-ee5493bc-574a-46f3-bd99-2a8acea4be80.gif">
   </div> 
   
 ##
