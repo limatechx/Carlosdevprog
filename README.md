@@ -1,10 +1,7 @@
-<h1>Olá! Meu nome é Carlos Lima.</h1> 
-
+<h1>Olá! Meu nome é Carlos Lima.</h1>
 <h2>Seja bem vindo(a) ao meu perfil! 😊</h2>
 📚 Em formação: HTML5 | CSS3 | Javascript
-
-##
-
+<hr>
 <div align="center">
   <a href="https://https://github.com/Carlosdevprog">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlosdevprog&show_icons=true&theme=codeSTACKr&include_all_commits=false&count_private=false"/>
@@ -17,7 +14,7 @@
   <img align="right" alt="Carlos-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/103391344/165226550-ee5493bc-574a-46f3-bd99-2a8acea4be80.gif">
   </div> 
   
-##
+<hr>
   
 <div> 
   <a href="https://www.instagram.com/carlos.dev.prog/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
