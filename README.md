@@ -1,5 +1,7 @@
-## Olá! Meu nome é Carlos Lima.
-- 🌱 Estudando: HTML5 | CSS3 | Javascript
+<h1>Olá! Meu nome é Carlos Lima.</h1>
+
+<h2>Seja bem vindo(a) ao meu perfil! 😊</h2>
+📚 Em formação: HTML5 | CSS3 | Javascript
 
 ##
 
