@@ -1,7 +1,5 @@
-## Olá! Eu sou o Carlos Lima
-- 🔭 Não estou trabalhando
+## Olá! Meu nome é Carlos Lima.
 - 🌱 Estudando: HTML5 | CSS3 | Javascript
-- 😄 Pronouns: ele/dele
 <div align="center">
   <a href="https://https://github.com/Carlosdevprog">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlosdevprog&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -24,4 +22,3 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>  
-  
