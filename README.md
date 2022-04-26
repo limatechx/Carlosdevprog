@@ -1,4 +1,4 @@
-<h1>Olá! Meu nome é Carlos Lima.</h1>
+<h1>Olá! Meu nome é Carlos Lima.</h1> 
 
 <h2>Seja bem vindo(a) ao meu perfil! 😊</h2>
 📚 Em formação: HTML5 | CSS3 | Javascript
@@ -17,7 +17,8 @@
   <img align="center" alt="Carlos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div> 
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/103391344/165226550-ee5493bc-574a-46f3-bd99-2a8acea4be80.gif">
+  </div> 
   
 ##
   
