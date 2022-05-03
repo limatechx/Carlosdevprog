@@ -11,7 +11,7 @@
   <img align="center" alt="Carlos-HTML" height="35" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Carlos-CSS" height="35" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Carlos-Js" height="35" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="Carlos-pic" height="120" style="border-radius:35px;" src="https://user-images.githubusercontent.com/103391344/165226550-ee5493bc-574a-46f3-bd99-2a8acea4be80.gif">
+  <img align="right" alt="Carlos-pic" height="180" style="border-radius:35px;" src="https://media.discordapp.net/attachments/971165654352793643/971165792244731954/vermelho2.png?width=555&height=555"> 
   </div> 
   
 <hr>
