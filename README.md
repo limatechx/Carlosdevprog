@@ -5,7 +5,7 @@
 <div align="center">
   <a href="https://https://github.com/Carlosdevprog">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Carlosdevprog&show_icons=true&theme=codeSTACKr&include_all_commits=false&count_private=false"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlosdevprog&layout=compact&langs_count=7&theme=codeSTACKr"/>
+  <img height="140em" src="https://github-readme-staats.vercel.app/api/top-langs/?username=Carlosdevprog&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Carlos-HTML" height="35" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
