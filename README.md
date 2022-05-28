@@ -1,6 +1,7 @@
 <h1>Olá! Meu nome é Carlos Lima.</h1>
 <h2>Seja bem vindo(a) ao meu perfil! 😊</h2>
-📚 Desenvolvedor Front-end | HTML5 | CSS3 | Javascript
+📚 Desenvolvedor Front-end | HTML5 | CSS3 | Javascript <br>
+
 <hr>
 <div align="center">
   <a href="https://https://github.com/Carlosdevprog">
@@ -8,10 +9,10 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlosdevprog&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Carlos-HTML" height="35" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Carlos-CSS" height="35" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Carlos-Js" height="35" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/568b991f16df8423d9b1ec57a29ad8af.gif"  width="180" height="180" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
+  <img align="center" alt="Carlos-HTML" height="#" width="#" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="Carlos-CSS" height="#" width="#" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="Carlos-Js" height="#" width="#" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/568b991f16df8423d9b1ec57a29ad8af.gif"  width="150" height="150" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
   </div> 
   
 <hr>
