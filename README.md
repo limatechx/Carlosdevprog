@@ -1,6 +1,6 @@
 <h1>Olá! Meu nome é Carlos Lima.</h1>
 <h2>Seja bem vindo(a) ao meu perfil! 😊</h2>
-📚 Desenvolvedor Front-end | HTML5 | CSS3 | Javascript <br>
+📚 Desenvolvedor Front-end | HTML5 | CSS3 | Javascript | React <br>
 
 <hr>
 <div align="center">
