@@ -40,7 +40,7 @@
   <a href="https://www.linkedin.com/in/carlos-etl/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://api.whatsapp.com/send?phone=+558199003257&text=Olá" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  
-![Snake animation](https://github.com/Carlosdevprog/Carlosdevprog/blob/output/github-contribution-grid-snake.svg)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/4b35ea34-82e0-44fa-ab5e-d0a702ea675a/deploy-status)](https://app.netlify.com/sites/mytodolistblue/deploys)  
- 
+![Snake animation](https://github.com/Carlosdevprog/Carlosdevprog/blob/output/github-contribution-grid-snake.svg) 
+### To do list [![Netlify Status](https://api.netlify.com/api/v1/badges/4b35ea34-82e0-44fa-ab5e-d0a702ea675a/deploy-status)](https://app.netlify.com/sites/mytodolistblue/deploys)  
+### Secret word [![Netlify Status](https://api.netlify.com/api/v1/badges/a6b33165-35a9-47be-b6ee-9544bc99b100/deploy-status)](https://app.netlify.com/sites/mysecretword/deploys)
 </div>
