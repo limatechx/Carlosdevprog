@@ -1,6 +1,6 @@
 <h1>Olá! Meu nome é Carlos Lima.</h1>
 <h2>Seja bem vindo(a) ao meu perfil!</h2>
-📚 Desenvolvedor Web | HTML5 | CSS3 | Javascript | React | Node <br>
+📚 Desenvolvedor Web | HTML5 | CSS3 | Javascript | React | Next | Typescript | Testes Unitários <br>
 
 <hr>
 <div align="center">
