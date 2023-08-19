@@ -9,7 +9,7 @@
   <a href="#"><img src="https://i.picasion.com/pic92/568b991f16df8423d9b1ec57a29ad8af.gif"  width="150" height="150" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
 
 <h2>Meu nome é Carlos Eduardo Lima.</h2> 
-HTML | CSS | Javascript | React.js | Next.js | Typescript | Node.js | MongoDB | Prisma | PostgreSQL | Styled-Components | Tailwind | SASS | Jest | Testing-Library 🚀
+HTML | CSS | Javascript | React.js | Next.js | Typescript | Node.js | MongoDB | Prisma | Docker | PostgreSQL | Styled-Components | Tailwind | SASS | Jest | Testing-Library 🚀
 <br> <br>
 
 • Estudande de Engenharia de Software 👨🏻‍💻 <br>
