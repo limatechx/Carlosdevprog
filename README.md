@@ -49,7 +49,7 @@
 
   <div align="center">
   <a href="https://https://github.com/limatechx">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Carlosdevprog&show_icons=true&theme=codeSTACKr&include_all_commits=false&count_private=false"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=limatechx&show_icons=true&theme=codeSTACKr&include_all_commits=false&count_private=false"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limatechx&layout=compact&langs_count=7&theme=codeSTACKr"/>
   </div>
 
